@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7C4E-86D4
+
+ Directory of C:\Program Files\TrainingPavan
+
+23-12-2020  15:59    <DIR>          .
+23-12-2020  15:59    <DIR>          ..
+23-12-2020  15:59               675 Hello.class
+23-12-2020  14:21               156 Hello.java
+23-12-2020  15:57               435 index.html
+23-12-2020  15:59                 0 new.txt
+               4 File(s)          1,266 bytes
+               2 Dir(s)  18,336,817,152 bytes free
